@@ -1,0 +1,29 @@
+.desing{
+    border-radius: 25px;
+    width: 230px;
+
+}
+.btns{
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    width: 150px;
+    height: 5vh;
+}
+.container-fluid{
+    background-image: linear-gradient(#c1dee8,#FBD9B9);
+    width: 100%;
+}
+.padding-custom{
+    padding-left: 300px;
+}
+.padding-customs{
+    padding-left: 450px;
+}
+.btn-custom{
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+.active1{
+    padding-left: 110px;
+}
