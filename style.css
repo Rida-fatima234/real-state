@@ -25,5 +25,8 @@
     border-radius: 20px;
 }
 .active1{
-    padding-left: 110px;
+    padding-left: 50px;
+}
+.cards-custom{
+   padding: 10px 50px;
 }
